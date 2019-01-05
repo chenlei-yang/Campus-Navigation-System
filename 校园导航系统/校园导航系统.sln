@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "校园导航系统", "校园导航系统\校园导航系统.vcxproj", "{CAD284A2-1B81-4D48-A16C-B56840D42E39}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Campus Navigation System", "Campus Navigation System\Campus Navigation System.vdproj", "{2B5662A0-A79F-451A-908A-4D891DCB8D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Debug|x64.ActiveCfg = Debug|x64
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Debug|x64.Build.0 = Debug|x64
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Debug|x86.Build.0 = Debug|Win32
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Release|x64.ActiveCfg = Release|x64
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Release|x64.Build.0 = Release|x64
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Release|x86.ActiveCfg = Release|Win32
+		{CAD284A2-1B81-4D48-A16C-B56840D42E39}.Release|x86.Build.0 = Release|Win32
+		{2B5662A0-A79F-451A-908A-4D891DCB8D6C}.Debug|x64.ActiveCfg = Debug
+		{2B5662A0-A79F-451A-908A-4D891DCB8D6C}.Debug|x86.ActiveCfg = Debug
+		{2B5662A0-A79F-451A-908A-4D891DCB8D6C}.Release|x64.ActiveCfg = Release
+		{2B5662A0-A79F-451A-908A-4D891DCB8D6C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C37768-0CD3-435E-8315-469A136FD4DE}
+	EndGlobalSection
+EndGlobal
